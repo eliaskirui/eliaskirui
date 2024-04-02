@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Kirui Elias</h1>
 <h3 align="center">A Software Engineer located in Nairobi, Kenya, proficient in crafting exceptional software solutions with expertise in Ruby on Rails, React.js, and Next.js. Eager to explore opportunities, whether remote or onsite.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliaskirui" alt="eliaskirui" /></a> </p>
-
 - 📝 I regularly write articles on [https://eliaskirui.com/blog](https://eliaskirui.com/blog)
 
 - 📫 How to reach me **eliaskirui24@gmail.com**
