@@ -1,5 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Kirui Elias</h1>
-<h3 align="center">A Software Engineer based in Nairobi, Kenya, proficient in crafting exceptional software solutions with expertise in Ruby on Rails, Laravel, and Next.js. Eager to explore opportunities, whether remote or onsite.</h3>
+<h3 align="center">I'm a Software Engineer based in Nairobi, Kenya, specializing in backend development. I focus on building scalable, high-performance systems, designing efficient APIs, and optimizing databases for seamless application performance.
+
+Passionate about solving complex problems, enhancing system reliability, and delivering robust solutions. Always eager to collaborate on impactful projects—remote or onsite.
+
+Let’s connect and build something great! 🚀</h3>
 
 - 📝 I regularly write articles on [https://eliaskirui.com/blog](https://eliaskirui.com/blog)
 
